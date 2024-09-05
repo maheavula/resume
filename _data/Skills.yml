@@ -1,22 +1,15 @@
-subject: Certifications
+subject: Achievements
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: Google Cybersecurity Professional
-    description: "[Coursera.com](https://www.coursera.com)"
-    date: Nov. 2023
-  - title: ISC2 Certified in Cybersecurity
-    description: "[ISC2.org](https://www.isc2.org)"
-    date: May. 2024
-  - title: CCNAv7 Introduction to Networks
-    description: "[netacad.com](https://www.netacad.com)"
-    date: Apr. 2023
-  - title: Introduction to Network Analysis
-    description: "[securityblue.team](https://www.securityblue.team)"
-    date: Jan. 2024
-  - title: SOC Analyst Learning Path
-    description: "[letsdefend.io](https://www.letsdefend.io)"
-    date: Feb. 2024
-  - title: Malware Analysis Skill Path
-    description: "[letsdefend.io](https://www.letsdefend.io)"
-    date: Feb. 2024
+  - title: Cyberchallenge 24
+    description: 
+      - Secured 2nd place by effectively solving complex cybersecurity problem statements.
+      - Demonstrated strong analytical skills and quick problem-solving abilities in a competitive environment.
+    date: Apr. 2024
+  - title: Idea Contest for a Secure Cyber Space 24
+    description: 
+      - 3rd prize in Idea contest
+      - Awarded for the innovative idea "Detection of Anomalies with Behavioral Analysis Using Machine Learning."
+      - Developed a concept focused on leveraging machine learning to identify unusual behavior patterns for enhanced cybersecurity.
+    date: Mar. 2024
