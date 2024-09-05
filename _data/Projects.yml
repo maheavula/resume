@@ -7,18 +7,59 @@ contents:
       - Developed a machine learning model for detecting malware using API calls
       - Improved analysis by reducing false positives in malware detection
       - Technology Used:Python, Scikit-learn, Assembly
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
     
   - title: "Zeus Trojan Analyzer ([zeus-trojan-analyzer](https://github.com/maheavula/zeus-trojan-analyzer))"
     description: 
-      - Analyzed Zeus Trojan behavior using network and system-level monitoring tools
-      - Enhanced reverse-engineering methods for malware investigation
-      - Technology Used:Python, Wireshark, GNU assembler
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
+      - Investigated Zeus Trojan by dissecting its communication patterns and command-and-control infrastructure
+      - Utilized memory analysis and debugging tools to trace malware execution flow and data exfiltration methods
+      - Technology Used:Processmon, PEtools, Hexeditor, Anyrun sanbox, Wireshark, GNU assembler
+
     
-  - title: "DPI for College Project ([https://github.com/maheavula/dpi-college-project](https://github.com/maheavula/dpi-college-project))"
+- title: "Documenting a Security Audit and Compliance Check ([security-audit-compliance](https://github.com/maheavula/Internal-Security-Audit))"
     description: 
-      - Built a Deep Packet Inspection (DPI) system for network security research
-      - Analyzed network packets to identify and mitigate potential threats
-      - "Technology Used: Python, Scapy, Nmap"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Conducted a comprehensive security audit to ensure adherence to compliance standards
+      - Created detailed documentation of vulnerabilities and recommended mitigation strategies
+      - "Technology Used: Python, Linux, Security Compliance Tools"
+
+    
+  - title: "Linux Fundamentals Project Series ([linux-fundamentals](https://github.com/maheavula/Linux-Fundamentals-Series-Project))"
+    description: 
+      - Explored Linux essentials such as file systems, shell scripting, and process management
+      - Designed interactive exercises to demonstrate core Linux administration tasks
+      - "Technology Used: Bash, Linux"
+
+    
+  - title: "SQL Fundamentals Project Series ([sql-fundamentals](https://github.com/maheavula/SQL-Fundamentals-Series-Project))"
+    description: 
+      - Implemented key SQL concepts such as querying, joins, and data manipulation
+      - Built hands-on projects for database design and optimization
+      - "Technology Used: SQL, MySQL"
+
+    
+  - title: "Network Traffic Analysis using tcpdump and Wireshark ([network-traffic-analysis](https://github.com/maheavula/Network-Traffic-Analysis-using-Wireshark))"
+    description: 
+      - Analyzed network traffic to detect anomalies and potential security breaches
+      - Utilized tcpdump and Wireshark to monitor and dissect packet-level data
+      - "Technology Used: Wireshark, tcpdump"
+
+    
+  - title: "Phishing Email Investigation and Incident Response ([phishing-email-investigation](https://github.com/maheavula/Phishing-Email-investigation-and-incident-response))"
+    description: 
+      - Investigated phishing emails to identify malicious payloads and attack vectors
+      - Applied incident response procedures to contain and mitigate phishing attempts
+      - "Technology Used: Python, Email Headers, Incident Response Tools"
+
+    
+  - title: "Importing and Parsing Security Logs using Python ([security-log-parser](https://github.com/maheavula/Importing-Parsing-a-text-file-using-Pyhon))"
+    description: 
+      - Developed a Python script to import and parse security logs for threat detection
+      - Automated log analysis to streamline detection of suspicious activity
+      - "Technology Used: Python, Log Analysis"
+
+    
+  - title: "Identifying Security Issues in a Mail Server using Splunk Cloud ([mail-server-security-issues](https://github.com/maheavula/Identifying-Security-Issues-in-a-Mail-Server-using-Splunk-cloud))"
+    description: 
+      - Monitored mail server logs to detect security issues using Splunk Cloud
+      - Implemented alerts for suspicious email activity and server misconfigurations
+      - "Technology Used: Splunk Cloud, Python"
+
