@@ -5,9 +5,6 @@ contents:
   - title: Letsdefend SIEM lab
     role: Incident investigation and responder
     description:
-      - Gained practical experience in investigating and responding to security incidents using a
-simulated Security Information and Event Management (SIEM) platform.
-      - Analyzed and triaged security alerts, performed root cause analysis, and executed
-appropriate response actions. Developed a solid understanding of incident detection,
-analysis, and mitigation techniques
+      - Gained practical experience in investigating and responding to security incidents using asimulated Security Information and Event Management (SIEM) platform.
+      - Analyzed and triaged security alerts, performed root cause analysis, and execute appropriate response actions. Developed a solid understanding of incident detection, analysis, and mitigation techniques
     date: sep. 2023 - Ongoing
