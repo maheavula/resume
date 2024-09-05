@@ -1,13 +1,22 @@
-subject: Awards
+subject: Certifications
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
+  - title: Google Cybersecurity Professional
+    description: "[Coursera.com](https://www.coursera.com)"
+    date: Nov. 2023
+  - title: ISC2 Certified in Cybersecurity
+    description: "[ISC2.org](https://www.isc2.org)"
+    date: May. 2024
+  - title: CCNAv7 Introduction to Networks
+    description: "[netacad.com](https://www.netacad.com)"
+    date: Apr. 2023
+  - title: Introduction to Network Analysis
+    description: "[securityblue.team](https://www.securityblue.team)"
+    date: Jan. 2024
+  - title: SOC Analyst Learning Path
+    description: "[letsdefend.io](https://www.letsdefend.io)"
     date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: Malware Analysis Skill Path
+    description: "[letsdefend.io](https://www.letsdefend.io)"
+    date: Feb. 2024
