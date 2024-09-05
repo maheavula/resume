@@ -2,17 +2,18 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: Veltech University, B.Tech in Computer Science
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
+      - Developed a machine learning model to detect malware by analyzing API calls, improving detection
+      - Analyzing Zeus Trojan malware, identifying key signatures and enhancing threat detection methods.
+    grade: "**GPA**: `8.4/10.0`"
+    date: July. 2022 - June. 2025
+  - title: Govt Polytechnic college proddatur, Diploma in Computer Engineering
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+      - Studied about various programming languages like C, .Net, Java, and web technologies
+      - Completed comprehensive coursework in networking principles, including IP addressing, subnetting, routing protocols, and network security.
+    grade: "**GPA**: `8.4/10.0`"
+    date: July. 2019 - May. 2022
+  - title: Sri bhasyam public school, Secondary school education
+    grade: "**GPA**: `10.0/10.0`"
+    date: Mar. 2018 - april. 2019
