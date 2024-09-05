@@ -2,8 +2,8 @@ subject: Hands-on experience
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Incident investigation and response
-    role: cybersecurity enthusiastic student
+  - title: Letsdefend SIEM lab
+    role: Incident investigation and responder
     description:
       - Gained practical experience in investigating and responding to security incidents using a
 simulated Security Information and Event Management (SIEM) platform.
