@@ -15,7 +15,7 @@ contents:
       - Technology Used:Processmon, PEtools, Hexeditor, Anyrun sanbox, Wireshark, GNU assembler
 
     
-- title: "Documenting a Security Audit and Compliance Check ([security-audit-compliance](https://github.com/maheavula/Internal-Security-Audit))"
+  - title: "Documenting a Security Audit and Compliance Check ([security-audit-compliance](https://github.com/maheavula/Internal-Security-Audit))"
     description: 
       - Conducted a comprehensive security audit to ensure adherence to compliance standards
       - Created detailed documentation of vulnerabilities and recommended mitigation strategies
