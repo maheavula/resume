@@ -8,7 +8,7 @@ contents:
       - Improved analysis by reducing false positives in malware detection
       - Technology Used:Python, Scikit-learn, Assembly
     
-  - title: "Zeus Trojan Analyzer ([zeus-trojan-analyzer](https://github.com/maheavula/Malware-analysis-projects))"
+  - title: "Zeus Trojan Analysis ([zeus-trojan-analyzer](https://github.com/maheavula/Malware-analysis-projects))"
     description: 
       - Investigated Zeus Trojan by dissecting its communication patterns and command-and-control infrastructure
       - Utilized memory analysis and debugging tools to trace malware execution flow and data exfiltration methods
