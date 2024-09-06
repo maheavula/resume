@@ -2,13 +2,13 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Detection of Malware using ML Based on API Calls ([detection-malware-ml](https://github.com/maheavula/detection-malware-ml))"
+  - title: "Detection of Malware using ML Based on API Calls ([detection-malware-ml](https://github.com/maheavula/Detection-of-Malware-using-Machine-Learning-based-on-API-calls/tree/malware-Detection))"
     description: 
       - Developed a machine learning model for detecting malware using API calls
       - Improved analysis by reducing false positives in malware detection
       - Technology Used:Python, Scikit-learn, Assembly
     
-  - title: "Zeus Trojan Analyzer ([zeus-trojan-analyzer](https://github.com/maheavula/zeus-trojan-analyzer))"
+  - title: "Zeus Trojan Analyzer ([zeus-trojan-analyzer](https://github.com/maheavula/Malware-analysis-projects))"
     description: 
       - Investigated Zeus Trojan by dissecting its communication patterns and command-and-control infrastructure
       - Utilized memory analysis and debugging tools to trace malware execution flow and data exfiltration methods
